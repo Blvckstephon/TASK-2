@@ -15,6 +15,33 @@ A sales dataset was provided by Coach Chinonso which was used to determin the fo
 5. The highest profit generated.
 6. The Sales range, if Low or High.
 
+# SkILLS DEMOSTRATED 
+
+1. Data Manipulation
+2. The use of 'Sum' function
+3. The use of 'Average' function
+4. The Use of 'Count' and 'Max' functions
+5. The use of 'IF' function
+
+# RAW DATA
+
 <img width="1440" alt="Sales Data " src="https://github.com/Blvckstephon/TASK-2/assets/106796709/ccb5861f-956f-4c8f-bd16-6ebb2e6d8cc2">
+
+# DATA MANIPULATION 
+
+To arrive at the total revenue the 'sum' function was used which was typed into the formula bar beginning with an equality sign and then applied to the entire 'sales' column containing different price of products sold, this automatically generated the answer to the total revenue obtained for the products sold. The 'sum' function was also applied to the profit column to determine the total profit generated. The answers and the formula functions used can be viewed from the attached screenshot below.
+
+<img width="1440" alt="Task 2" src="https://github.com/Blvckstephon/TASK-2/assets/106796709/99b9ca8e-9f5b-4dfb-ad8d-559ae72ba4c7">
+
+The Average Revenue of the products was calculated using the 'average' function across the sales column to determine the average sales across the dataset provided, while the average units sold was also obtained from the applying the average formula across the 'units sold' column. This can also be seen in the attached above.
+
+The total discount was obtained using the 'sum' function across the discount column, formatting the cell from 'general' to 'accounting' thereafter I selected dollar currency symbol ($). The Total number of Sales recorded was calculated appliyng the 'count' function to the 'sales' column which displayed the answer as seen in the screenshot above. The highest profit generated was obtained using the 'max' function to determine highest value across the profit column.
+
+Finally, a new column was created called 'sales range' to determine high sales and low sales. This was deduce using the 'IF' Function to determine values above and below the average revenue calculated. Please attached screenshot above.
+
+# CONCLUSION 
+
+The task helped broaden my knowledge on the use of more excel formulars and functions and it keeps getting interesting the more frequent its been used 
+
 
 
